@@ -1,0 +1,22 @@
+{
+  "name": "aulas",
+  "version": "1.0.0",
+  "description": "Aulas sobre JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thalbu/aulas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thalbu/aulas/issues"
+  },
+  "homepage": "https://github.com/Thalbu/aulas#readme",
+  "devDependencies": {
+    "tap": "^16.3.0"
+  }
+}
